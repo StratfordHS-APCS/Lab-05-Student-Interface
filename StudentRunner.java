@@ -5,13 +5,13 @@
  */
 public class StudentRunner
 {
-	/**
-	 * You need to create at least 2 more students and use them to
-	 * test the functionality of your implementation of
-	 * StudentInterface.
-	 *
-	 * @param	args	not used
-	 */
+    /**
+     * You need to create at least 2 more students and use them to
+     * test the functionality of your implementation of
+     * StudentInterface.
+     *
+     * @param	args	not used
+     */
     public static void main( String[] args )
     {
         Student s1 = new Student( "George Castanza", "Vandalay University" );
