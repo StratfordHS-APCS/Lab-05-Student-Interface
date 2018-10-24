@@ -33,7 +33,7 @@ George Castanza and Harry Potter attend the same school.
 * Edit the first line of the Readme.md file and put your username in both locations that say "username".  This is necessary if you want the badge at the top of the instructions to show red or green based on your most recent commit.
 
 ## Grading
-* 
+* 90 - StudentInterface implemented correctly in Student class
 * 10 - style
 
 Note that these are potential maximums; the computer can only check so much.  If your code passes checkstyle, but I see non-descriptive variable names, then your style grade will go down.  If your code passes all tests, but I see code that was copied off of the internet or from another student your grade will go *way* down.
